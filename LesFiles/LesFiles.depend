@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640096548 source:c:\users\brard\desktop\educ_m1\sda\code_bloks\lesfiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1640095211 c:\users\brard\desktop\educ_m1\sda\code_bloks\lesfiles\file.h
+

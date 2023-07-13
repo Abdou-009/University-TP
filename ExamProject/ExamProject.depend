@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643658678 source:c:\users\brard\desktop\educ_m1\sda\code_bloks\examproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headProEx.h"
+
+1643658354 c:\users\brard\desktop\educ_m1\sda\code_bloks\examproject\headproex.h
+

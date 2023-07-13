@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640092861 source:c:\users\brard\desktop\educ_m1\sda\code_bloks\lespile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1640092928 c:\users\brard\desktop\educ_m1\sda\code_bloks\lespile\pile.h
+

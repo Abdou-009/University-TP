@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643905751 source:c:\users\brard\desktop\educ_m1\sda\code_bloks\listchainnee\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HeadList.h"
+
+1643906100 c:\users\brard\desktop\educ_m1\sda\code_bloks\listchainnee\headlist.h
+

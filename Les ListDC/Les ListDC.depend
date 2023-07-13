@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643834575 source:c:\users\brard\desktop\educ_m1\sda\code_bloks\les listdc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LDC.h"
+
+1639999873 c:\users\brard\desktop\educ_m1\sda\code_bloks\les listdc\ldc.h
+
